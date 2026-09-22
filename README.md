@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NoteFlow
 
 NoteFlow is a modern, responsive, offline-first notes application built using Flutter and Material 3. It provides a production-grade user experience with comprehensive sorting, filtering, categories, real-time search, color customization, and localized storage.
@@ -57,3 +58,6 @@ NoteFlow contains unit tests verifying the integrity of the data structures and 
 ```bash
 flutter test
 ```
+=======
+# mobileapp Ghaffar
+>>>>>>> 5b08c0192986c7ad9a968cb5414c5c942daba7ae
